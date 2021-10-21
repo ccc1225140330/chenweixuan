@@ -12,4 +12,8 @@ public class helloController {
     public String hello(){
         return "say---- hello";
     }
+
+    private String ss(){
+        return "sdf";
+    }
 }
