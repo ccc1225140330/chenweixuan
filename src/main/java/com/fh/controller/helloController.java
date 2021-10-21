@@ -16,4 +16,8 @@ public class helloController {
     private String ss(){
         return "sdf";
     }
+
+    private String ss1(){
+        return "sdf";
+    }
 }
